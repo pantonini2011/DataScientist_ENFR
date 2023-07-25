@@ -22,14 +22,20 @@ insights significativos.
 Las principales características del proyecto incluyen:
 Preprocesamiento de Datos: Se realiza un riguroso proceso de limpieza y preparación de los datos para asegurar que estén listos para 
 su análisis.
+
 Análisis Exploratorio de Datos (EDA): Se exploran los datos para obtener una comprensión inicial de su distribución, tendencias y 
 relaciones entre variables.
+
 Visualización de Datos: Se utilizan gráficos y visualizaciones para representar los datos y resaltar patrones o tendencias importantes.
 Modelado Predictivo: Se aplican técnicas de aprendizaje automático para construir modelos predictivos que permitan hacer pronósticos sobre 
 variables de interés.
+
 Validación y Evaluación de Modelos: Se realizan pruebas de validación cruzada y se evalúa el rendimiento de los modelos para seleccionar
 el más adecuado.
+
 Interpretación de Resultados: Se interpretan los resultados del análisis y los modelos para obtener conclusiones significativas y 
 recomendaciones útiles.
+
 Optimización de Parámetros: Se ajustan los parámetros de los modelos para mejorar su precisión y generalización.
+
 Visualización de Resultados: Se presentan los resultados de manera visual y comprensible para audiencias no técnicas.#
